@@ -39,7 +39,7 @@ sudo apt update
 
 1. Clone the repository:
 ```bash
-    git clone https://github.com/vivekv1301/bandwidth-monitor-sfml.git
+git clone https://github.com/vivekv1301/bandwidth-monitor-sfml.git
 cd bandwidth-monitor-sfml
 ```
 
@@ -85,9 +85,3 @@ Conn-5: 4932 B/s
 
     Built for educational purposes to simulate and visualize bandwidth usage using SFML and C++.
     
-    
----
-
-The placeholder image will be shown until you upload an actual screenshot. Let me know if you'd like further adjustments!
-
-
