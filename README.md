@@ -59,6 +59,9 @@ g++ -std=c++17 -o oop_monitor main.cpp -lsfml-graphics -lsfml-window -lsfml-syst
 ├── README.md           # Project documentation
 ```
 🖼️ Screenshot
+![image](https://github.com/user-attachments/assets/e64e9044-be12-4434-aa1b-c7da05f6764c)
+![image](https://github.com/user-attachments/assets/8763e47d-fbf3-4e21-aa0e-9d4ff2adb8ef)
+![image](https://github.com/user-attachments/assets/6cd8e747-3f6a-4a23-9fb7-e7f1e3d5d58e)
 
 🔍 Example Output
 
