@@ -33,37 +33,43 @@ Install SFML on Ubuntu:
 ```bash
 sudo apt install libsfml-dev
 sudo apt update
+```
 
 📦 Build Instructions
 
 1. Clone the repository:
-    bash``
+```bash
     git clone https://github.com/vivekv1301/bandwidth-monitor-sfml.git
 cd bandwidth-monitor-sfml
+```
 
 2. Compile the code:
+```bash
 g++ -std=c++17 -o oop_monitor main.cpp -lsfml-graphics -lsfml-window -lsfml-system ./oop_monitor
+```
 
-3. Run the simulation:
+4. Run the simulation:
+```bash
 ./oop_monitor
-
+```
 🧩 Project Structure
-``bash
+```bash
 .
 ├── main.cpp            # Source code for simulation
 ├── README.md           # Project documentation
-
+```
 🖼️ Screenshot
 
 🔍 Example Output
 
 Every second, the window updates with new bar heights:
+```bash
 Conn-1: 3795 B/s
 Conn-2: 4210 B/s
 Conn-3: 1350 B/s
 Conn-4: 2789 B/s
 Conn-5: 4932 B/s
-
+```
 📘 Learning Objectives
 
     Use SFML for 2D graphics in C++
